@@ -1,2 +1,2 @@
-# Bike-Sales-Dashboard-and-data-clean-up
-I took data from bicycle sales reports and cleaned the data and then created data charts.
+# Bike Sales Analysis: Customer Insights Dashboard (Excel)
+Cleaned and analyzed a dataset of customer records to uncover factors driving bike purchases. Built an interactive Excel dashboard with pivot tables and visualizations to examine trends across income levels, age groups, and commute distances. This project showcases my ability to analyze business data and present insights in a clear, user-friendly format.
